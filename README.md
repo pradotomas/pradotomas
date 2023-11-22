@@ -1,6 +1,6 @@
 ### Hi!! I'm Tomás Prado. 👋🏻
 
-I have 18 years old, im a **initial programmer** in a **technical school**. 
+I'm 18 years old, im a **initial programmer** in a **technical school**. 
 
 ### — Primary programing languages. 👨🏻‍💻
 

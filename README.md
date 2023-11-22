@@ -1,15 +1,14 @@
-### Hi!! I'm Tomás Prado. 
+### Hi!! I'm Tomás Prado. 👋🏻
 
 I have 18 years old, im a **initial programmer** in a **technical school**. 
 
-### — Primary programing languages.
+### — Primary programing languages. 👨🏻‍💻
 
-C ++ 
-HTML / CSS
-JAVA
-MYSQL
-PHP 
-
+1. C++
+2. HTML / CSS
+3. JAVA
+4. MYSQL
+5. VISUAL STUDIO
 
 
 <!--

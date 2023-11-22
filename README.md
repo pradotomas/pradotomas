@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi!! I'm Tomás Prado. 
+
+I have 18 years old, im a **initial programmer** in a **technical school**. 
+
+### — Primary programing languages.
+
+C ++ 
+HTML / CSS
+JAVA
+MYSQL
+PHP 
+
+
 
 <!--
 **pradotomas/pradotomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

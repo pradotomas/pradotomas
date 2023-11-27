@@ -1,18 +1,18 @@
-### TOMÁS PRADO. 👋🏻
+### HI, I'M TOMÁS PRADO. 👋🏻
 
 
 
 ### — ABOUT ME. 
 
-🌱 I'm 18 years old,a **digital artist** and a **initial programmer** in a **technical school**.
+🌱 I'm 18 years old. I'm **digital artist** and a **initial programmer** in a **technical school**.
 
 
 
 ### — MY INTERESTS.
 
-✏️ I really love drawing, I am passionate about digital art and being able to bring it to my web pages so that other people can enjoy it.
+✏️ I really love drawing. I am passionate about digital art and being able to bring it to my web pages so that other people can enjoy it.
 
-🖥️ Also I like to program frontend design, I always choose that option because I'm pretty good with design, colors, etc.
+🖥️ Also I like to program frontend design. I always choose that option because I'm pretty good with design, colors, etc.
 
 
 

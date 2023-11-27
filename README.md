@@ -12,7 +12,7 @@
 
 ✏️ I really love drawing, I am passionate about digital art and being able to bring it to my web pages so that other people can enjoy it.
 
-🖥️ Also i like to program frontend design, i always choose that option because i'm pretty good with design, colors, etc.
+🖥️ Also I like to program frontend design, I always choose that option because I'm pretty good with design, colors, etc.
 
 
 

@@ -1,8 +1,11 @@
-### Hi!! I'm Tomás Prado. 👋🏻
+### TOMÁS PRADO. 👋🏻
 
-I'm 18 years old, im a **initial programmer** in a **technical school**. 
+###About me. 
 
-### — Primary programing languages. 👨🏻‍💻
+I'm 18 years old,a digital artist and a **initial programmer** in a **technical school**, I really like to program front-end and im passionate about continuing to learn about it.
+Im currently working on some school projects like wikis and e-commerces.
+
+### — Languages & tools. 👨🏻‍💻
 
 1. C++
 2. HTML / CSS

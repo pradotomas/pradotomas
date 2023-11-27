@@ -2,13 +2,13 @@
 
 
 
-### ABOUT ME. 
+### — ABOUT ME. 
 
 🌱 I'm 18 years old,a **digital artist** and a **initial programmer** in a **technical school**.
 
 
 
-### MY INTERESTS.
+### — MY INTERESTS.
 
 ✏️ I really love drawing, I am passionate about digital art and being able to bring it to my web pages so that other people can enjoy it.
 

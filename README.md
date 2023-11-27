@@ -2,8 +2,13 @@
 
 ### About me. 
 
-I'm 18 years old,a **digital artist** and a **initial programmer** in a **technical school**, I really like to program **front-end** and im passionate about continuing to learn about it.
-Im currently working on some school projects like wikis and e-commerces.
+🌱 I'm 18 years old,a **digital artist** and a **initial programmer** in a **technical school**.
+
+### My interests.
+
+✏️ I really love drawing, I am passionate about digital art and being able to bring it to my web pages so that other people can enjoy it.
+
+🖥️ Also i like to program frontend design, i always choose that option because i'm pretty good with design, colors, etc.
 
 ### — Languages & tools. 👨🏻‍💻
 
